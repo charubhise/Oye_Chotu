@@ -1,0 +1,10 @@
+{
+  "name": "Remix Oye Chotu! Voice-First Shopping",
+  "description": "Bas Bolo, Chotu Sambhaal Lega! India\u0027s voice-first shopping assistant supporting Hindi, Marathi, Hinglish, and English voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
